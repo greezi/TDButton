@@ -14,5 +14,5 @@
 ===
 演示:
 
-![Logo](http://images.cnitblog.com/blog2015/497279/201505/051004316736641.png)
+![Logo](http://oc7dm4akh.bkt.clouddn.com/button.gif)
 
